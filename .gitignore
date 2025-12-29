@@ -1,0 +1,16 @@
+# API credentials - NEVER commit these
+.env
+credentials.json
+token.json
+
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
